@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ListViewNoPersonalidazo</string>
+    <string name="registrar">Registrar Carros</string>
+    <string name="listar">Listar Carros</string>
+    <string name="registrar_carros">Registrar Carros</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="placa">Placa</string>
+    <string name="azul">Azul</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="kia" translatable="false">Kia</string>
+    <string name="chevrolet" translatable="false">Chevrolet</string>
+    <string name="mazda" translatable="false">Mazda</string>
+    <string name="modelo_1" translatable="false">2015</string>
+    <string name="modelo_2" translatable="false">2016</string>
+    <string name="modelo_3" translatable="false">2017</string>
+    <string name="mensaje_guardado">Guardado!</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string-array name="marca">
+        <item>@string/kia</item>
+        <item>@string/chevrolet</item>
+        <item>@string/mazda</item>
+    </string-array>
+    <string-array name="modelo">
+        <item>@string/modelo_1</item>
+        <item>@string/modelo_2</item>
+        <item>@string/modelo_3</item>
+    </string-array>
+    <string-array name="color">
+        <item>@string/azul</item>
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+    </string-array>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
+</resources>

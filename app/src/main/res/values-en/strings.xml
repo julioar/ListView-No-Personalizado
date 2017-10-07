@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListViewNoPersonalidazo</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="color">Colors</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="listar">List Cars</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_guardado">Save!</string>
+    <string name="modelo">Model</string>
+    <string name="negro">Black</string>
+    <string name="placa">Plate</string>
+    <string name="precio">Price</string>
+    <string name="registrar">Register Cars</string>
+    <string name="registrar_carros">Register Cars</string>
+</resources>
